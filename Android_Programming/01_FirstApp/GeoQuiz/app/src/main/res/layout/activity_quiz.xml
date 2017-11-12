@@ -30,5 +30,5 @@
             android:text="@string/false_button"/>
 
     </LinearLayout>
-
+    
 </LinearLayout>
