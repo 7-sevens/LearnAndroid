@@ -1,4 +1,4 @@
-package com.developer.geoquiz;
+package com.developer.android.geoquiz;
 
 import org.junit.Test;
 

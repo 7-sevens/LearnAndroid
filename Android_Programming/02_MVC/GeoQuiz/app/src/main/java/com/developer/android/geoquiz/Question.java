@@ -1,12 +1,10 @@
-package com.developer.geoquiz;
+package com.developer.android.geoquiz;
 
 /**
- * blog：http://www.developer1024.com/
- * 微信公众号：开发者小黑屋
- * ----------------------------------
- * brief : Question类
- * author: 7-sevens
- * date  : 2017/5/15.
+ * Created by 7-sevens on 2017/11/12.
+ *
+ * Blog:   http://www.developer1024.com/
+ * GitHub: https://github.com/7-sevens
  */
 
 public class Question {
